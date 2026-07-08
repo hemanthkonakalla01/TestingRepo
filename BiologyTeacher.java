@@ -7,6 +7,7 @@ public class BiologyTeacher extends Teacher {
 	{
 		//sysout is used to print message on console
 		//Added new line by hemanthdev for new feature
+		//This is line no 10 added by hemanthdev
 		System.out.println("BiologyTeacher teaches biology subject");
 
 	}
