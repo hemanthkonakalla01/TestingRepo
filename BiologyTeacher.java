@@ -6,6 +6,8 @@ public class BiologyTeacher extends Teacher {
 	public void teach() 
 	{
 		//sysout is used to print message on console
+		//Added new line by hemanthdev for new feature
+		//This is line no ten added by hemanthdev
 		System.out.println("BiologyTeacher teaches biology subject");
 
 	}
@@ -17,3 +19,8 @@ public class BiologyTeacher extends Teacher {
 	}
 
 }
+//This is line no 21
+//This is line no 22
+//This is line no 23
+//This is line no 25
+//New line was added in github
