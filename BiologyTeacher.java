@@ -5,6 +5,7 @@ public class BiologyTeacher extends Teacher {
 	@Override
 	public void teach() 
 	{
+		//sysout is used to print message on console
 		System.out.println("BiologyTeacher teaches biology subject");
 
 	}
